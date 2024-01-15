@@ -101,8 +101,8 @@ a:hover {
 .card-versus_container {
   display: flex;
   flex-direction: column;
-  justify-items: center;
-  align-content: center;
+  justify-content: center;
+  align-items: center;
   padding-top: 0.1rem;
   height: 300px;
 }
@@ -144,8 +144,4 @@ a:hover {
 
 .card:hover {
   transform: scale(1.2);
-}
-
-.debug {
-  border: solid 1px red;
 }
