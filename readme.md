@@ -35,7 +35,7 @@ aqui você encontrará um jogo divertido baseado no mangá/anime [Yu-Gi-Oh](http
   
 <h2>📁  Como Jogar </h2>
 
-1 - Você pode acessar o jogo clicando [Aqui](https://detonaralphgamerenatoccs.netlify.app)
+1 - Você pode acessar o jogo clicando [Aqui](https://jokenpoyugiohrenatoccs.netlify.app)
  <br>  Ou  <br>
 1 - Clonar este repositório para sua máquina local. <br>
 2 - Abra o arquivo `index.html` em seu navegador web. <br>
