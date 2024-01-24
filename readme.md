@@ -24,14 +24,16 @@ aqui você encontrará um jogo divertido de jo-ken-po com a temática do mangá/
 1 - Clonar este repositório para sua máquina local. <br>
 2 - Abra o arquivo `index.html` em seu navegador web. <br>
 3 - Escolha uma carta na parte de baixo do player, dentre as 5 disponiveis, há 3 tipos de atributos sendo eles pedra, papel e tesoura. <br>
-4 - Pra saber quem ganha, basta seguir essas a sequência tesoura > papel > pedra > tesoura.
+4 - O computador também escolhe uma carta e em seguida veremos se a sorte está ao seu lado ou não! <br>
+ 
 
 <h2>:hammer: Funcionalidades  </h2>
 
 - **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo.
 - **Descrição da carta**: Nome e atributo
-
-- <h4 align="center"> 
+- **Importante**: Pra saber quem ganha, basta seguir essas a sequência tesoura ganha de papel, pedra ganha de tesoura.
+- 
+ <h4 align="center"> 
     :construction:  Responsividade em construção  :construction:
 </h4>
 
@@ -46,4 +48,6 @@ Este jogo foi desenvolvido como parte de um projeto educacional da [Digital Inno
 
 ---
 
-Divirta-se jogando o **Jogo Yu-Gi-Oh | Jo-ken-po Edition** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-yugioh-assets) e deixar uma ⭐️ se você gostou do projeto!
+Lembrando de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-yugioh-assets) e deixar uma ⭐️ se você gostou do projeto! <br>
+E também foi utilizado o framework [RPGUI](https://github.com/RonenNess/RPGUI) que fornece uma conjunto de assets no estilo RPG pronto para uso. <br>
+Divirta-se jogando o **Jogo Yu-Gi-Oh | Jo-ken-po Edition** 
