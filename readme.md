@@ -2,7 +2,7 @@
 <H1> Jogo JavaScript Yu-Gi-Oh | Jo-ken-po Edition </H1>
 
 <p align="center">
-  <img src="https://github.com/RenatoCCS/detona_ralph_jsgame_dio/blob/main/src/images/ralph.png" alt="JSGame Detona Ralph Logo">
+  <img src="https://github.com/RenatoCCS/yugioh_jsgame_dio/blob/main/src/assets/icons/logo_yugioh.png" alt="Logo Yugioh">
 </p>
 
 Bem-vindo ao **Jogo Yu-Gi-Oh | Jo-ken-po Edition,** desenvolvi esse projeto acompanhando as aulas do bootcamp DIO, com o objetivo de fazer uma versão do jogo jo-ken-po (Pedra, Papel e Tesoura) com a temática do mangá/anime [Yu-Gi-Oh](https://pt.wikipedia.org/wiki/Yu-Gi-Oh!). Este projeto não oferece apenas entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
